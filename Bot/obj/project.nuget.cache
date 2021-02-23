@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3pLYiQcAzLoSJb5cYJ7jhX95wo8QQDcQG4/EGR3j9UvqnZw33rMY3o5PxQXfa1mb6u69H4psrH86csBTtJj2uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksi\\source\\repos\\Bot\\Bot\\Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\protobuf-net\\2.4.6\\protobuf-net.2.4.6.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\vknet\\1.58.0\\vknet.1.58.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\vknet.audiobypassservice\\1.7.0\\vknet.audiobypassservice.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
